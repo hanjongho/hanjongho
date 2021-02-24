@@ -1,5 +1,5 @@
 ### 안녕하세요. 개발자가 되고싶은 한종호입니다. 👋 
-* 🌱 C, Java, Spring, Algorithm을 공부하고 있습니다.
+* 🌱 C, Java, Spring, Algorithm을 공부하고 있습니다. 
 * 📖 Study in..
   * 2020.09 ~ ⠀⠀⠀⠀⠀⠀⠀42Seoul (johan)
   * 2020.07 ~ 2020.08 ⠀네이버 부스트캠프 챌린지
